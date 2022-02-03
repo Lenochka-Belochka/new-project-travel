@@ -1,6 +1,6 @@
 .cover__link {
     background-image: url(../../../images/cover-background.jpg);
-    background-size: center;
+    background-size: cover;
     background-repeat: no-repeat;
     text-decoration: none;
     display: flex;

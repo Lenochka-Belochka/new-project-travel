@@ -1,19 +1,11 @@
 .footer__link {
-    color: #FFFFFF;
-    text-decoration: none;
-    transition: opacity .3s ease;
-    margin-right: 18px;
-  }
-  
+  color: #FFFFFF;
+  text-decoration: none;
+  transition: opacity .3s ease;
+}
+
 .footer__link:hover {
-    opacity: .8;
-  }
-  
-@media screen and (max-width: 767px) {
-    .footer__link{
-        margin: 0 0 32px;
-      }
-    }
-    
+  opacity: .8;
+}
    
   
