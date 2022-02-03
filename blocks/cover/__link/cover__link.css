@@ -1,9 +1,10 @@
 .cover__link {
     background-image: url(../../../images/cover-background.jpg);
-    background-size: cover;
+    background-size: center;
     background-repeat: no-repeat;
     text-decoration: none;
     display: flex;
+    position: absolute;
     flex-direction: column;
     justify-content: center;
     align-items: center;
