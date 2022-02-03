@@ -1,6 +1,6 @@
 .footer__list {
     list-style: none;
-    margin: 0;
+    margin-right: 18px;
     padding: 0;
     display: flex;
     font-family: 'Inter', Arial, sans-serif;
